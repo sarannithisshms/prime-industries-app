@@ -66,7 +66,7 @@ export default function Contact() {
     if (Object.keys(e).length > 0) return;
   
     // 1. Replace with your company's actual receiving email address
-    const recipientEmail = 'sarannithissh30@gmail.com'; 
+    const recipientEmail = 'primefabindustries@gmail.com'; 
   
     // 2. Define the email subject line
     const subject = encodeURIComponent(`New Enquiry from ${form.name}`);
